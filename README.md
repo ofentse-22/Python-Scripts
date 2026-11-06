@@ -1,3 +1,4 @@
+A collection of Python scripts and mini-projects covering fundamental concepts, logic building, and terminal-based applications.
 # Python Fundamentals Practical Code
 
 This folder contains runnable Python examples based on the practical parts of
